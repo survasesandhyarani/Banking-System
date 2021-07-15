@@ -1,0 +1,16 @@
+.carousel-caption h2{
+    color:#000000;
+    font-size:40px;
+    text-transform:uppercase;
+    letter-spacing:2px;
+    margin-top:25px;
+    font-weight:700;
+    font-family:poppins; 
+    color: #000000;
+}
+.carousel-caption{
+   margin-top:25px;
+  background-color: #ffffff;
+  border: none;
+  opacity: 0.6;
+}
